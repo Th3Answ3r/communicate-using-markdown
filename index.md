@@ -11,3 +11,8 @@
 $ git init 
 Se inicializó el repositorio Git vacío en /Users/skills/Projects/recipe-repository/.git/ 
 ```
+
+###### Adding task list
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
